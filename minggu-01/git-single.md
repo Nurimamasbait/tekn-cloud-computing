@@ -99,11 +99,8 @@ Setelah selesai repo akan dibuat dan dapat diakses.
 
 ![imgclon](foto/clon1.png)
 
-# Mengelola Repo
-
+# Mengelola Repo 
 Setelah clone ke komputer local, semua manipulasi konten dilakukan di komputer lokal dan hasilnya akan dipush ke remote repo di Github. Maka dari itu jangan berganti - ganti remote local sekali dibuat disitu tetap disitu. Jika kehilangan repo lokal, clone ulang ke diktori yang bersih dan kosong setelah itu baru melakukan pengelolaan repo. Selanjutnya berikut hal yang dapat dilakukan.
-
-
 
 # Mengubah Isi-Push Tanpa Bracnhing dan Mergin
 
@@ -112,6 +109,9 @@ Perubahan isi bisa terjadi karena satu atau kombinasi beberapa hal berikut:
   2. File diedit
   3. Membuat file / direktori baru
   4. Menghapus direktori
+
+Berikut melakukan perubahan di komputer lokal , setelah itu push ke repo
+
 
 
 
