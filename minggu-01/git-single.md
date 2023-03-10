@@ -1,5 +1,5 @@
 
-## INSTALASI GIT
+## INSTALASI GIT DI WINDOWS
 
 1. Setelah download git , selanjutnya klik file yang telah didownload. Maka akan menampilkan seperti gambar ini , Klik next untuk lanjut
 
