@@ -119,6 +119,27 @@ Cara ini lebih mudah tetapi mempunyai resiko jika terjadi kesalahan dalam edit. 
 
 Pada bagian ini setiap kali melakukan perubahan di lokal komputer dengan membuat suatu cabang yang nantinya digunakan untuk menampung perubahan - perubahan. Setelah itu cabang akan di kirim ke repo Github untuk dimintai riview kemudian digabungkan (``` merge ```) ke main. Secara umum repo yang dibuat sudah akan mempunyai satu branc yang disebut ``` main ``` atau ``` master ```.
 
+Berikut langkah - langkahnya sebagai berikut
+1. Buat branch untuk menampung perubahan-perubahan
+2. Lakukan perubahan-perubahan
+3. Add dan commit perubahan-perubahan tersebut ke branch
+4. Kembali ke repo master
+5. Buat pull request di GitHub
+6. Merge pull request di GitHub
+7. Merge branch untuk menampung perubahan-perubahan tersebut ke master.
+8. Selesai.
+
+![imgclon](foto/r4.png)
+
+Selanjutnya kirim pull request (*PR*)
+![imgclon](foto/r5.png)
+
+Setelah membuat PR , PR bisa di merge:
+![imgclon](foto/r6.png)
+
+
+
+
 
 
 
