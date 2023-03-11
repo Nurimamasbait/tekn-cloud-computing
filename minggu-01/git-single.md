@@ -142,6 +142,29 @@ Selanjutnya ``` Confirm Merge ```, branch yang kita kirimkan tadi sudah dimasukk
 
 #Sinkronisasi
 
+Suatu saat, bisa saja terjadi kita menggunakan komputer lain dan mengedit repo melalui repo lokal di komputer lain, setelah itu pindah ke kamputer lain lagi. Saat itu, kita perlu melakukan sinkronisasi ke kemputer lokal. Perintah untuk sinkronisasi adalah:
+
+$ git pull
+
+Perintah ini dikerjakan di direktori tempat repo lokal kita berada.
+
+# Membatalkan Perubahab
+Praktik yang baik adalah membuat branch pada saat kita akan melakukan perubahan-perubahan. Jika perubahan-perubahan yang kita lakukan sudah sedemikian kacaunya, maka kita bisa membuat supaya perubahan-perubahan yang kacau tersebut hilang dan kembali ke kondisi bersih seperti semula.
+
+![imgclon](foto/r9.png)
+
+# Undo Commit Terakhir
+Suatu saat, mungkin kita sudah terlanjur mem-push perubahan ke repo GitHub, setelah itu kita baru menyadari bahwa perubahan tersebut salah. Untuk itu, kita bisa melakukan git revert.
+
+![imgclon](foto/r10.png)
+![imgclon](foto/r10a.png)
+
+
+
+
+
+
+
 
 
 
