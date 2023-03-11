@@ -1,6 +1,6 @@
-## GIT UNTUK KOLABORASI
+# GIT UNTUK KOLABORASI
 
-# FROK
+## FROK
 Fork adalah membuat clone dari suatu repo di GitHub milik upstream author, diletakkan ke milik kontributor. Fork hanya dilakukan sekali saja. Pada dasarnya, proses untuk fork ini meliputi:
 
 1. Fork repo di web GitHub.
