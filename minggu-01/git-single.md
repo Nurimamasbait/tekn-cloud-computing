@@ -137,6 +137,14 @@ Selanjutnya kirim pull request (*PR*)
 Setelah membuat PR , PR bisa di merge:
 ![imgclon](foto/r7.png)
 
+Selanjutnya ``` Confirm Merge ```, branch yang kita kirimkan tadi sudah dimasukkan ke branch main. Setelah itu, merge di komputer lokal:
+![imgclon](foto/r8.png)
+
+#Sinkronisasi
+
+
+
+
 
 
 
