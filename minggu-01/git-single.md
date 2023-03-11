@@ -89,7 +89,7 @@ Untuk membuat repo gunakan langkah berikut
 
 2. Selanjutnya isikan nama repo,keterangan, serta lisensi sesui keinginan anda
 
-![imgrep](foto/rep2.png)
+![imgrep](foto/r1.png)
 
 3. Selanjutnya klik Create repository
 
