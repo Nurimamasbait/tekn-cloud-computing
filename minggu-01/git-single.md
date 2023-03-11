@@ -178,11 +178,21 @@ Jika commit sudah dilakukan, tetapi belum di-push ke repo GitHub (masih berada d
 
 ![imgclon](foto/r15.png)
 
+Untuk kembali ke perubahan pada saat yang sudah lama, yang perlu dilakukan adalah melakukan git revert <posisi> kemudian mengedit secara manual kemudian push ke repo.
 
+![imgclon](foto/r16.png)
 
+Setelah itu, jika dilihat pada file, akan muncul tambahan untuk memudahkan meng-edit. File ini harus di-resolve terlebih dahulu, setelah itu baru di add dan commit:
 
+![imgclon](foto/r17.png)
 
+Edit file tersebut, setelah itu simpan
 
+![imgclon](foto/r18.png)
+  
+Setelah itu, lanjutkan proses revert. Saat git revert --continue isikan pesan revert.
+
+![imgclon](foto/r19.png)
 
 
 
