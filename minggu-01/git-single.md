@@ -117,7 +117,7 @@ Cara ini lebih mudah tetapi mempunyai resiko jika terjadi kesalahan dalam edit. 
 
 ## Mengubah Isi dengan Branching and Merging
 
-Pada bagian ini setiap kali melakukan perubahan di lokal komputer dengan membuat suatu cabang yang nantinya digunakan untuk menampung perubahan - perubahan. Setelah itu cabang akan di kirim ke repo Github untuk dimintai riview kemudian digabungkan (''' merge ''') ke main. Secara umum repo yang dibuat sudah akan mempunyai satu branc yang disebut ''' main ''' atau ''' master '''.
+Pada bagian ini setiap kali melakukan perubahan di lokal komputer dengan membuat suatu cabang yang nantinya digunakan untuk menampung perubahan - perubahan. Setelah itu cabang akan di kirim ke repo Github untuk dimintai riview kemudian digabungkan (``` merge ```) ke main. Secara umum repo yang dibuat sudah akan mempunyai satu branc yang disebut ``` main ``` atau ``` master ```.
 
 
 
