@@ -97,7 +97,7 @@ Setelah selesai repo akan dibuat dan dapat diakses.
 
 ## Clon Repo
 
-![imgclon](foto/clon1.png)
+![imgclon](foto/r2.png)
 
 # Mengelola Repo 
 Setelah clone ke komputer local, semua manipulasi konten dilakukan di komputer lokal dan hasilnya akan dipush ke remote repo di Github. Maka dari itu jangan berganti - ganti remote local sekali dibuat disitu tetap disitu. Jika kehilangan repo lokal, clone ulang ke diktori yang bersih dan kosong setelah itu baru melakukan pengelolaan repo. Selanjutnya berikut hal yang dapat dilakukan.
@@ -111,8 +111,13 @@ Perubahan isi bisa terjadi karena satu atau kombinasi beberapa hal berikut:
   4. Menghapus direktori
 
 Berikut melakukan perubahan di komputer lokal , setelah itu push ke repo
+![imgclon](foto/r3.png)
 
+Cara ini lebih mudah tetapi mempunyai resiko jika terjadi kesalahan dalam edit. Cara yang lebih aman tetapi memerlukan langkah yang lebih panjang adalah branching and merging
 
+## Mengubah Isi dengan Branching and Merging
+
+Pada bagian ini setiap kali melakukan perubahan di lokal komputer dengan membuat suatu cabang yang nantinya digunakan untuk menampung perubahan - perubahan. Setelah itu cabang akan di kirim ke repo Github untuk dimintai riview kemudian digabungkan (''' merge ''') ke main. Secara umum repo yang dibuat sudah akan mempunyai satu branc yang disebut ''' main ''' atau ''' master '''.
 
 
 
