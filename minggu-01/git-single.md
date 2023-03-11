@@ -129,13 +129,13 @@ Berikut langkah - langkahnya sebagai berikut
 7. Merge branch untuk menampung perubahan-perubahan tersebut ke master.
 8. Selesai.
 
-![imgclon](foto/r4.png)
-
-Selanjutnya kirim pull request (*PR*)
 ![imgclon](foto/r5.png)
 
-Setelah membuat PR , PR bisa di merge:
+Selanjutnya kirim pull request (*PR*)
 ![imgclon](foto/r6.png)
+
+Setelah membuat PR , PR bisa di merge:
+![imgclon](foto/r7.png)
 
 
 
