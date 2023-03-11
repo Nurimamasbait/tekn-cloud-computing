@@ -157,7 +157,29 @@ Praktik yang baik adalah membuat branch pada saat kita akan melakukan perubahan-
 Suatu saat, mungkin kita sudah terlanjur mem-push perubahan ke repo GitHub, setelah itu kita baru menyadari bahwa perubahan tersebut salah. Untuk itu, kita bisa melakukan git revert.
 
 ![imgclon](foto/r10.png)
-![imgclon](foto/r10a.png)
+![imgclon](foto/r11.png)
+
+Contoh di atas adalah contoh untuk mengubah README.md dengan beberapa commit. Setelh itu, kita akan mengembalikan ke posisi terakhir sebelum commit terakhir.
+
+Perintah di atas akan membuka editor. Pada editor tersebut kita bisa mengetikkan pesan revert ( = pesan commit untuk pembatalan). Setelah selesai, simpan:
+
+![imgclon](foto/r12.png)
+
+Selanjutnya, tinggal di-push ke repo GitHub.
+
+![imgclon](foto/r13.png)
+
+Jika commit sudah dilakukan, tetapi belum di-push ke repo GitHub (masih berada di lokal), cara membatalkannya:
+
+![imgclon](foto/r14.png)
+
+![imgclon](foto/r15.png)
+
+
+
+
+
+
 
 
 
