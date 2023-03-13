@@ -1,4 +1,3 @@
 # tekn-cloud-computing
 
-## Minggu-01
-[pembhasan](minggu-01/README.md)
+[Minggu-01](minggu-01/README.md)
