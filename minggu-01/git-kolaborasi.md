@@ -14,6 +14,19 @@ Kontributor harus mem-fork repo upstream author sehingga di repo kontributor mun
 
 ![img](foto/k1.png)
 
+![img](foto/k2.png)
+![img](foto/k3.png)
+![img](foto/k4.png)
+![img](foto/k5.png)
+![img](foto/k6.png)
+![img](foto/k7.png)
+
+
+
+
+
+
+
 
 
 
