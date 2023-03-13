@@ -22,13 +22,13 @@ Setelah proses tersebut, clone di komputer lokal:
 ![img](foto/k3.png)
 
 Repo origin sudah dituliskan konfigurasinya pada saat melakukan proses clone dari repo kontributor. Konfigurasi repo upstream harus dibuat.
-![img](foto/k4.png)
-
 Tambahkan remote upstream:
+
+![img](foto/k4.png)
+Hasil :
+
 ![img](foto/k5.png)
 
-Hasil :
-![img](foto/k6.png)
 
 # Mengirim Pull Request
 Langkah - langkahnya
@@ -45,18 +45,23 @@ Langkah - langkahnya
 2. Setelah melakukan perubahan-perubahan, pastikan bahwa isi repo lokal tersinkronisasi dengan repo dari upstream author.
 3. Cara melakukan sinkronisasi:
 
+![img](foto/k6.png)
+
+4. Lakukan perubahan-perubahan, setelah itu push ke origin (milik kontributor)
+
 ![img](foto/k7.png)
 
 ![img](foto/k8.png)
 
-4. Lakukan perubahan-perubahan, setelah itu push ke origin (milik kontributor)
+5. Setelah itu, buka halaman Web dari repo kontributor . Pada halaman tersebut akan ditampilkan isi yang kita push.
 
 ![img](foto/k9.png)
 
-5. Setelah itu, buka halaman Web dari repo kontributor . Pada halaman tersebut akan ditampilkan isi yang kita push.
-
+6. Pilih Compare and pull request, kemudian isikan deskripsi PR dan klik pada Create pull request:
 ![img](foto/k10.png)
-
+7. Pada repo upstream author, muncul angka 1 (artinya jumlahnya 1) pada Pull requests di bagian atas.
+8. Upstream author bisa menyetujui setelah melakukan review: klik pada Pull requests, akan muncul PR dengan message seperti yang ditulis oleh kontributor (Add: contributor). Klik pada PR tersebut, review kemudian klik Merge pull request diikuti dengan Confirm merge. Setelah itu, status akan berubah menjadi Merged.
+9. Sinkronkan semua repo (lokal maupun GitHub kontributor)
 
 ![img](foto/k11.png)
 
