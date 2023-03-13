@@ -47,12 +47,14 @@ Langkah - langkahnya
 
 ![img](foto/k7.png)
 
-4. Lakukan perubahan-perubahan, setelah itu push ke origin (milik kontributor)
 ![img](foto/k8.png)
+
+4. Lakukan perubahan-perubahan, setelah itu push ke origin (milik kontributor)
 
 ![img](foto/k9.png)
 
 5. Setelah itu, buka halaman Web dari repo kontributor . Pada halaman tersebut akan ditampilkan isi yang kita push.
+
 ![img](foto/k10.png)
 
 
