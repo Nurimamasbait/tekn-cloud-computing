@@ -12,6 +12,8 @@ Kontributor harus mem-fork repo upstream author sehingga di repo kontributor mun
 2. Akses repo yang akan di-fork
 3. Pada sisi kanan atas, klik Fork:
 
+![img](foto/k1.jpg)
+
 
 
 
