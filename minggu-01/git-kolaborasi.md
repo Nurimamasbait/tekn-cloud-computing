@@ -7,3 +7,11 @@ Fork adalah membuat clone dari suatu repo di GitHub milik upstream author, dilet
 2. Clone fork tersebut di komputer lokal.
 
 Kontributor harus mem-fork repo upstream author sehingga di repo kontributor muncul repo tersebut. Proses forking ini dijelaskan dengan langkah-langkah berikut:
+
+1. Login ke GitHub
+2. Akses repo yang akan di-fork
+3. Pada sisi kanan atas, klik Fork:
+
+
+
+
