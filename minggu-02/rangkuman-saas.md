@@ -25,6 +25,8 @@ Manfaat Saas
 3. Aplikasi dapat diakses dari perangkat apa pun yang terhubung
 4. Penyedia bertanggung jawab atas segalanya
 
+Berikut model gambara dari peredaan Iaas, SaaS. dan Paas
+
 ![img01](foto2/01.png)
 
 ## C. Arsitektur Platfrom SAAS ( Software as a Service)
