@@ -61,6 +61,26 @@ Dari sudut pandang konsumen , aplikasi SaaS merupakan salah satu cara mudah untu
 Dari perpektif bisnis , produk perangkat lunak merupakan kiriman sebagai layanan yang mana untuk menawarkan produk dalam skala besar secara global dan juga mempertahankan kontrol keseluruhan atas produk mereka. Beberapa layanan arsitektur Saas dalam bisnis yaitu Mengurangi waktur ke pasar, biaya perawatan yang lebih rendah, peningkatan yang lebih mudah, lebih hemat biaya dan uji coba instans tunggal layak karena perusaan tidak perlu melakukan banyak sumber daya keuangan untuk mencoba perangkat lunak.
 
 ## Fitur Utama dn Manfaat Platfrom Arsitektur SaaS
+Berikut manfaat lain yang dapat diberikan oleh penerapan produk berbasis SaaS
+- Nilai ekonomis
+Model pembayaran biaya subskrip bulanan atau tahunan memudahkan bisnis untuk menganggarkan, memasangkannya dengan biaya penyiapan infrastruktur nol, dan mudah untuk melihat bagaimana memilih untuk menggunakan solusi SaaS dapat menghemat uang bisnis.
 
+- Keamanan
+Keamanan merupakan solusi pengembangan perangkat lunak dan plafrom. Sebagai konsumen aplikasi yang dirancang menggunakan Saas anda tidak perlu hawatir dalam bagaimana data anda dikunci dan disimpan aman di cloud.
 
+- Kompatibilitas
+Dengan instalasi perangkat lunak tradisional, pembaruan dan tambalan terkadang membutuhkan banyak waktu dan uang. Ini terutama berlaku di perusahaan. Namun, dengan SaaS, pelanggan cukup masuk ke layanan yang sudah ditingkatkan.
+
+### Kemampuan Solusi Saas
+
+Solusi SaaS dapat digunakan ke lingkungan ini dan, secara teori, menawarkan semua jenis layanan yang dapat dikembangkan sebagai aplikasi perangkat lunak yang dapat mencakup, tetapi tidak terbatas pada Aplikasi Office, Email dan pesan instan, Media sosial, Layanan fintech ,Mengekspos 3Rd API Partai, Keamanan dan autentikasi, Pembelajaran Mesin, Kecerdasan buatan, Layanan Lokasi dan Layanan streaming dan pencarian data.
+
+### Kekurangan Plafrom Saas
+- Kurangnya kontrol dalam platform Arsitektur SaaS
+- Ekosistem terbatas
+- Performa
+- Masalah Data
+
+## Cara Membangun aplikasi Saas berbasis cloud
+- 
 
