@@ -25,6 +25,8 @@ Manfaat Saas
 3. Aplikasi dapat diakses dari perangkat apa pun yang terhubung
 4. Penyedia bertanggung jawab atas segalanya
 
+![img01](foto2/01.png)
+
 ## C. Arsitektur Platfrom SAAS ( Software as a Service)
 SaaS adalah model pengiriman umum untuk banyak aplikasi bisnis, termasuk perangkat lunak kantor dan perpesanan, perangkat lunak manajemen, virtualisasi, dll. Ini adalah bagian dari nomenklatur komputasi awan, bersama dengan infrastruktur sebagai layanan (IaaS), platform sebagai layanan (PaaS), desktop sebagai layanan (DaaS).
 Ini terkait dengan penyedia layanan aplikasi (ASP) yang menyediakan aplikasi "shrink-wrap" kepada pengguna bisnis melalui Internet. Perangkat lunak yang dikirim ke Internet awal memiliki fitur yang mirip dengan aplikasi lokal dibandingkan dengan aplikasi SaaS.
