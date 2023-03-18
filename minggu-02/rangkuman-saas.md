@@ -26,3 +26,17 @@ Manfaat Saas
 4. Penyedia bertanggung jawab atas segalanya
 
 ## C. Arsitektur Platfrom SAAS ( Software as a Service)
+SaaS adalah model pengiriman umum untuk banyak aplikasi bisnis, termasuk perangkat lunak kantor dan perpesanan, perangkat lunak manajemen, virtualisasi, dll. Ini adalah bagian dari nomenklatur komputasi awan, bersama dengan infrastruktur sebagai layanan (IaaS), platform sebagai layanan (PaaS), desktop sebagai layanan (DaaS).
+Ini terkait dengan penyedia layanan aplikasi (ASP) yang menyediakan aplikasi "shrink-wrap" kepada pengguna bisnis melalui Internet. Perangkat lunak yang dikirim ke Internet awal memiliki fitur yang mirip dengan aplikasi lokal dibandingkan dengan aplikasi SaaS.
+Aplikasi SaaS adalah arsitektur multi-penyewa instans tunggal yang memberikan pengalaman kaya fitur yang kompetitif dengan aplikasi lokal. Agregator menggabungkan penawaran SaaS dari vendor yang berbeda dan menawarkannya sebagai bagian dari platform aplikasi terpadu.
+## Arsitektur SAAS:
+Dengan model ini, satu versi aplikasi, dengan satu konfigurasi digunakan untuk semua pelanggan. Aplikasi ini diinstal pada beberapa mesin untuk mendukung skalabilitas (disebut penskalaan horizontal).
+Ada dua varietas utama SaaS:
+SaaS Vertikal
+Perangkat Lunak yang menjawab kebutuhan industri tertentu (misalnya, perangkat lunak untuk industri perawatan kesehatan, pertanian, real estat, keuangan)
+SaaS Horisontal
+Produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
+Manfaat SAAS:
+Ini menawarkan peluang besar bagi organisasi dari semua ukuran untuk mengalihkan risiko akuisisi perangkat lunak, dan untuk memindahkan TI dari pusat biaya reaktif menjadi bagian proaktif yang menghasilkan nilai dari perusahaan.  Aplikasi SaaS tidak memerlukan penyebaran infrastruktur besar di lokasi klien. Ini menghilangkan atau secara drastis mengurangi komitmen sumber daya di muka.
+## Dampak pada Peran dan Tanggung Jawab TI
+Menambahkan SaaS dapat menyebabkan perubahan mendasar dalam peran departemen TI sebagai penyedia layanan informasi. Dengan SaaS, kontrol pusat data tidak selalu sama dengan kontrol atas seluruh lingkungan komputasi perusahaan. Hal ini dapat menyebabkan penjaga gerbang takut kehilangan kendali.
