@@ -42,7 +42,25 @@ SaaS Horisontal
 Produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
 Manfaat SAAS:
 Ini menawarkan peluang besar bagi organisasi dari semua ukuran untuk mengalihkan risiko akuisisi perangkat lunak, dan untuk memindahkan TI dari pusat biaya reaktif menjadi bagian proaktif yang menghasilkan nilai dari perusahaan.  Aplikasi SaaS tidak memerlukan penyebaran infrastruktur besar di lokasi klien. Ini menghilangkan atau secara drastis mengurangi komitmen sumber daya di muka.
+
 ### Dampak pada Peran dan Tanggung Jawab TI
 Menambahkan SaaS dapat menyebabkan perubahan mendasar dalam peran departemen TI sebagai penyedia layanan informasi. Dengan SaaS, kontrol pusat data tidak selalu sama dengan kontrol atas seluruh lingkungan komputasi perusahaan. Hal ini dapat menyebabkan penjaga gerbang takut kehilangan kendali.
 
-## Arsitektur SaaS Perangkat Lunak sebagai Layanan
+## D. Arsitektur SaaS Perangkat Lunak Sebagai Layanan
+### Platfrom Arsitektur SaaS
+Saas merupakan cara untuk mengirimkan perangkat lunak, penyedia perangkat lunak secara terpusat menghosting satu atau lebih aplikasinyadan memberi penyediaan untuk pelanggan melaui internet. Arsitektur Saas merupakan salah satu pilar utama komputasi awan .
+Berikut termasuk model SaaS :
+1. Infrastruktur sebagai layanan
+2. Plafrom sebagai layanan
+3. Pembelajaran mesin sebagai layanan dll.
+
+- Konsumen
+Dari sudut pandang konsumen , aplikasi SaaS merupakan salah satu cara mudah untuk diandalkan sebagai layanan atau produk digital. Dengan cukup anda mengakses melalui web ,membayar layanan dan menggunakannya. Beberapa layanan untuk konsumen di aplikasi SaaS yaitu Neflix , Microfoft Office 365, Amazon Perdana, Twitter, Situs Web, Google Dokumen , Tenaga Penjualan dll.
+
+- Bisnis
+Dari perpektif bisnis , produk perangkat lunak merupakan kiriman sebagai layanan yang mana untuk menawarkan produk dalam skala besar secara global dan juga mempertahankan kontrol keseluruhan atas produk mereka. Beberapa layanan arsitektur Saas dalam bisnis yaitu Mengurangi waktur ke pasar, biaya perawatan yang lebih rendah, peningkatan yang lebih mudah, lebih hemat biaya dan uji coba instans tunggal layak karena perusaan tidak perlu melakukan banyak sumber daya keuangan untuk mencoba perangkat lunak.
+
+## Fitur Utama dn Manfaat Platfrom Arsitektur SaaS
+
+
+
