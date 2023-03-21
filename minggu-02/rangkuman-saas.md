@@ -97,20 +97,11 @@ RabbitMQ adalah sistem antrian open source yang hebat yang berjalan di semua sis
 
 # Layanan Saas
 
-1. Google Workspace
+1. Adobe Crative Cloud (Adobe CC)
+Layanan ini merupakan produk Adobe yang menawarkan solusi terbaik untuk desain grafis, desain web, serta pengeditan foto dan video secara online. Adobe CC mempermudahkan kerja para desainer berkat penyimpanannya yang berbasis cloud.
 
-![img](foto2/w1.png)
-
-Google Workspace merupakan salah satu contoh layanan Saas yang memudahkan dalam melakukan aktivitas di perusahaan maupun menyimpan data sehari - hari .Google Workspace menyediakan alat produktivitas kolaborasi yang memungkinkan pengguna untuk menyelesaikan segala pekerjaannya dalam satu tempat. Rangkaian aplikasi dari Google Workspace yang sering kita gunakan di antaranya adalah Google Docs, Google Slide, Google SpreadSheet, GOogle Meet, Google Drive, Google Calender, dll
-
-2. Canva
-
-![img](foto2/w2.png)
-
-Canva adalah aplikasi Saas yang mampu membantu menciptakan konten desain untuk berbagai macam tujuan, seperti infografis, logo, presentasi, poster, selebaran, kartu undangan dan lainnnya. Layanan ini dilengkapi dengan interface drag and drop yang memudahkan pengguna membuat konten terbaik
-
-
-
+- Untuk versi non cloud dengan fungsional yang sama adalah 
+- Scribus adalah aplikasi desain grafis yang dapat digunakan untuk desain layout majalah , koran , buku, dll. 
 
 
 
