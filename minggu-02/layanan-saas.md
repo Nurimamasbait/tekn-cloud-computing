@@ -40,6 +40,8 @@ Adobe Creative Cloud adalah alat untuk memungkinkan kreativitas dan kolaborasi. 
 Scribus adalah aplikasi desain grafis yang dapat digunakan untuk desain layout majalah , koran , buku, dll. 
 
 ## 2. Lumen5 
+![img](foto2/2.png)
+
 ### Apa Itu Lumen5
 Lumen5 adalah sebuah platfrom pembuatan vidieo untuk konten yang diposting dimedia sosial.Lumen5 memiliki tujuan untuk memungkinkan siapa pun untuk membuat video dengan mudah dan hanya dalam hitungan menit.Meskipun tidak memiliki bekal dalam hal editing video, kamu tidak perlu khawatir. Pasalnya, tools ini memiliki teknologi yang akan membantu penggunanya saat membuat video.Menariknya, tidak hanya untuk membuat video, Lumen5 juga menyediakan sumber daya yang dibutuhkan untuk membuat video lebih menarik.
 
