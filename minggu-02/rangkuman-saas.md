@@ -98,7 +98,6 @@ RabbitMQ adalah sistem antrian open source yang hebat yang berjalan di semua sis
 # Layanan Saas
 
 1. Adobe Crative Cloud (Adobe CC)
-![img](foto/03.png)
 
 Layanan ini merupakan produk Adobe yang menawarkan solusi terbaik untuk desain grafis, desain web, serta pengeditan foto dan video secara online. Adobe CC mempermudahkan kerja para desainer berkat penyimpanannya yang berbasis cloud.
 
@@ -106,16 +105,13 @@ Layanan ini merupakan produk Adobe yang menawarkan solusi terbaik untuk desain g
 Scribus adalah aplikasi desain grafis yang dapat digunakan untuk desain layout majalah , koran , buku, dll. 
 
 2. Lumen5 
-![img](foto2/02.png)
 
-Layanan Aplikasi Saas yang fiturnya pembuatan video otomatis
+Layanan Aplikasi Saas yang fiturnya pembuatan video otomatis.  Alat pembuatan video bertenaga AI yang membantu dalam membuat video menarik yang menakjubkan. Dan Lumen5 adalah platform pembuatan video tercepat karena hanya membutuhkan beberapa menit untuk membuat video.
 
 ### Versi non cloud dengan fungsional yang sama adalah 
 - DaVinci Resolve adalah sebuah aplikasi edit video gratis yang tersedia untuk sistem operasi Windows, MacOS, dan Linux. Meskipun software ini dapat digunakan secara gratis, tetapi DaVinci menawarkan fitur yang cukup lengkap.
 - VideoPad
-VideoPad adalah aplikasi video editor yang tersedia untuk Windows dan MacOS, dengan fitur yang lebih lengkap tersedia untuk versi Windows.
-
-Kamu dapat mengunduh dan menggunakan VideoPad untuk tujuan non-komersil secara gratis, tetapi kamu akan mendapatkan beberapa notifikasi yang cukup mengganggu.
+VideoPad adalah aplikasi video editor yang tersedia untuk Windows dan MacOS, dengan fitur yang lebih lengkap tersedia untuk versi Windows.Kamu dapat mengunduh dan menggunakan VideoPad untuk tujuan non-komersil secara gratis, tetapi kamu akan mendapatkan beberapa notifikasi yang cukup mengganggu.
 
 
 
