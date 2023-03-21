@@ -36,8 +36,13 @@ Adobe Creative Cloud adalah alat untuk memungkinkan kreativitas dan kolaborasi. 
 - Memiliki fitur revoke lisensi
 
 
-### Versi non cloud dengan fungsional yang sama adalah 
-Scribus adalah aplikasi desain grafis yang dapat digunakan untuk desain layout majalah , koran , buku, dll. 
+## Versi non cloud dengan fungsional yang sama adalah 
+### Scribus
+
+![img](foto2/4.png)
+
+Scribus adalah aplikasi desain grafis yang dapat digunakan untuk desain layout majalah , koran , buku, dll.
+Fitur Umum Ikhtisar Scribus mendukung semua format bitmap utama, termasuk TIFF, JPEG dan Adobe Photoshop. Gambar vektor dapat diimpor atau langsung dibuka untuk mengedit. Daftar panjang format yang didukung termasuk PostScript Encapsulated, SVG, Adobe Illustrator, atau Xfig. Profesional jenis / gambar fitur pengaturan warna CMYK termasuk dan manajemen ICC warna. Dukungan untuk program lain dan format Scribus tidak dapat membaca atau menulis format file asli dari program DTP lain seperti QuarkXPress, Microsoft Publisher, atau InDesign, para pengembang merasa bahwa reverse engineering mereka format file akan prohibitively rumit dan bisa mengambil risiko tindakan hukum dari pembuat program-program
 
 ## 2. Lumen5 
 ![img](foto2/2.png)
@@ -92,8 +97,12 @@ Berikut ini beberapa paket yang ditawarkan oleh Lumen5 dianataranya
 - Dengan fitur ini Anda dapat dengan mudah memasukkan tautan ke posting blog atau artikel dan secara otomatis akan mengambil konten dan mengisi skrip Anda.
 
 
-### Versi non cloud dengan fungsional yang sama adalah 
-- DaVinci Resolve adalah sebuah aplikasi edit video gratis yang tersedia untuk sistem operasi Windows, MacOS, dan Linux. Meskipun software ini dapat digunakan secara gratis, tetapi DaVinci menawarkan fitur yang cukup lengkap.
+## Versi non cloud dengan fungsional yang sama adalah 
+### DaVinci Resolve
+
+![img](foto2/5.png)
+
+DaVinci Resolve adalah sebuah aplikasi edit video gratis yang tersedia untuk sistem operasi Windows, MacOS, dan Linux. Meskipun software ini dapat digunakan secara gratis, tetapi DaVinci menawarkan fitur yang cukup lengkap.
 - VideoPad
 VideoPad adalah aplikasi video editor yang tersedia untuk Windows dan MacOS, dengan fitur yang lebih lengkap tersedia untuk versi Windows.Kamu dapat mengunduh dan menggunakan VideoPad untuk tujuan non-komersil secara gratis, tetapi kamu akan mendapatkan beberapa notifikasi yang cukup mengganggu.
 
