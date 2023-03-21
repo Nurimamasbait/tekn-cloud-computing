@@ -1,6 +1,7 @@
 # Layanan Saas
 
 ## 1. Adobe Crative Cloud (Adobe CC)
+![img](foto2/03.png)
 ### Apa itu Adobe Crative Cloud
 Layanan ini merupakan produk Adobe yang menawarkan solusi terbaik untuk desain grafis, desain web, serta pengeditan foto dan video secara online. Adobe CC mempermudahkan kerja para desainer berkat penyimpanannya yang berbasis cloud.
 Pada September 2003 silam, Adobe melahirkan sistem aplikasi Creative Suite (CS). Sistem yang satu ini berisi aplikasi-aplikasi kreatif, misalnya:
