@@ -98,12 +98,16 @@ RabbitMQ adalah sistem antrian open source yang hebat yang berjalan di semua sis
 # Layanan Saas
 
 1. Adobe Crative Cloud (Adobe CC)
+![img](foto/03.png)
+
 Layanan ini merupakan produk Adobe yang menawarkan solusi terbaik untuk desain grafis, desain web, serta pengeditan foto dan video secara online. Adobe CC mempermudahkan kerja para desainer berkat penyimpanannya yang berbasis cloud.
 
 ### Versi non cloud dengan fungsional yang sama adalah 
 Scribus adalah aplikasi desain grafis yang dapat digunakan untuk desain layout majalah , koran , buku, dll. 
 
 2. Lumen5 
+![img](foto2/02.png)
+
 Layanan Aplikasi Saas yang fiturnya pembuatan video otomatis
 
 ### Versi non cloud dengan fungsional yang sama adalah 
