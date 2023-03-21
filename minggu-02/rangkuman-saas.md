@@ -98,6 +98,7 @@ RabbitMQ adalah sistem antrian open source yang hebat yang berjalan di semua sis
 ### Layanan Saas
 
 1. Google 
+
 ![img](foto2/w1.png)
 
 
