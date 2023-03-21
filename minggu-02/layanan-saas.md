@@ -1,9 +1,10 @@
 Layanan SaaS
 
-1. Google Workspace
+1. Adobe Crative Cloud (Adobe CC)
 
-Google Workspace merupakan salah satu contoh layanan Saas yang memudahkan dalam melakukan aktivitas di perusahaan maupun menyimpan data sehari - hari .Google Workspace menyediakan alat produktivitas kolaborasi yang memungkinkan pengguna untuk menyelesaikan segala pekerjaannya dalam satu tempat. Rangkaian aplikasi dari Google Workspace yang sering kita gunakan di antaranya adalah Google Docs, Google Slide, Google SpreadSheet, GOogle Meet, Google Drive, Google Calender, dll
+Layanan ini merupakan produk Adobe yang menawarkan solusi terbaik untuk desain grafis, desain web, serta pengeditan foto dan video secara online. Adobe CC mempermudahkan kerja para desainer berkat penyimpanannya yang berbasis cloud.
 
-2. Canva
 
-Canva adalah aplikasi Saas yang mampu membantu menciptakan konten desain untuk berbagai macam tujuan, seperti infografis, logo, presentasi, poster, selebaran, kartu undangan dan lainnnya. Layanan ini dilengkapi dengan interface drag and drop yang memudahkan pengguna membuat konten terbaik
+2. Lumen5 
+
+Layanan Aplikasi Saas yang fiturnya pembuatan video otomatis.  Alat pembuatan video bertenaga AI yang membantu dalam membuat video menarik yang menakjubkan. Dan Lumen5 adalah platform pembuatan video tercepat karena hanya membutuhkan beberapa menit untuk membuat video.
