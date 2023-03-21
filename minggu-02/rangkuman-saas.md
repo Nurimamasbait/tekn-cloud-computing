@@ -81,6 +81,22 @@ Solusi SaaS dapat digunakan ke lingkungan ini dan, secara teori, menawarkan semu
 - Performa
 - Masalah Data
 
-## Cara Membangun aplikasi Saas berbasis cloud
-- 
+### Pertimbangan Desain untuk Platfrom Arsitektur SaaS
+- Skalabilitas
+- Waktu henti nol dan perjanjian tingkat layanan
+- Multi-tenancy dalam arsitektur SaaS
+
+### Sistem antrian untuk aplikasi Saas
+Sistem antrian pesan adalah protokol komunikasi asinkron, memungkinkan pengirim dan penerima pesan tidak berinteraksi pada saat yang bersamaan.Juga dikenal sebagai teknologi Antrian Pesan (MSMQ) memungkinkan aplikasi web berjalan pada waktu yang berbeda dan untuk berkomunikasi dengan berbagai integrasi pihak ke-3 / API / dan layanan lainnya secara asinkron.
+
+Berikut sistem antrian saas yang digunakan
+
+- KelinciMQ
+RabbitMQ adalah sistem antrian open source yang hebat yang berjalan di semua sistem operasi utama.
+
+
+### Layanan Saas
+
+
+
 
