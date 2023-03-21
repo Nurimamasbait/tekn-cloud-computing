@@ -99,9 +99,7 @@ RabbitMQ adalah sistem antrian open source yang hebat yang berjalan di semua sis
 
 1. Google 
 
-![img01](foto2/w1.png)
-
-
+![img](foto2/w1.png)
 Google Workspace merupakan salah satu contoh layanan Saas yang memudahkan dalam melakukan aktivitas di perusahaan maupun menyimpan data sehari - hari .Google Workspace menyediakan alat produktivitas kolaborasi yang memungkinkan pengguna untuk menyelesaikan segala pekerjaannya dalam satu tempat. Rangkaian aplikasi dari Google Workspace yang sering kita gunakan di antaranya adalah Google Docs, Google Slide, Google SpreadSheet, GOogle Meet, Google Drive, Google Calender, dll
 
 2. Canva
