@@ -103,7 +103,8 @@ Berikut ini beberapa paket yang ditawarkan oleh Lumen5 dianataranya
 ![img](foto2/5.png)
 
 DaVinci Resolve adalah sebuah aplikasi edit video gratis yang tersedia untuk sistem operasi Windows, MacOS, dan Linux. Meskipun software ini dapat digunakan secara gratis, tetapi DaVinci menawarkan fitur yang cukup lengkap.
-- VideoPad
+
+### VideoPad
 VideoPad adalah aplikasi video editor yang tersedia untuk Windows dan MacOS, dengan fitur yang lebih lengkap tersedia untuk versi Windows.Kamu dapat mengunduh dan menggunakan VideoPad untuk tujuan non-komersil secara gratis, tetapi kamu akan mendapatkan beberapa notifikasi yang cukup mengganggu.
 
 
