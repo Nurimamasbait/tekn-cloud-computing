@@ -6,4 +6,4 @@ Google Workspace merupakan salah satu contoh layanan Saas yang memudahkan dalam 
 
 2. Canva
 
-Canva adalah aplikasi Saas yang mampu membantu menciptakan
+Canva adalah aplikasi Saas yang mampu membantu menciptakan konten desain untuk berbagai macam tujuan, seperti infografis, logo, presentasi, poster, selebaran, kartu undangan dan lainnnya. Layanan ini dilengkapi dengan interface drag and drop yang memudahkan pengguna membuat konten terbaik
