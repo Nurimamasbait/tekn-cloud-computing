@@ -17,7 +17,8 @@ Deploy Some Code - DIY
 ![img](foto3/4.png)
 
 ![img](foto3/05.png)
-
+ 
+8. Berikut terminal log penyebaran 
 ![img](foto3/06.png)
 
 
