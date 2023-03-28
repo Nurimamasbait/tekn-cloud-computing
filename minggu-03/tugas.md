@@ -10,8 +10,10 @@ Deploy Some Code - DIY
 5. ketik nama repo anda
 ![img](foto3/03.png)
 
+6. Klik sebarkan
 ![img](foto3/04.png)
 
+7. Setujui aplikasi " Cyclic - Preview " di github
 ![img](foto3/4.png)
 
 ![img](foto3/05.png)
