@@ -1,5 +1,5 @@
 # Deploy to Cyclic
-1. Pertma login Cyclic dengan menggunakan akun Github
+1. Pertama login Cyclic dengan menggunakan akun Github
 ![img](foto3/1a.png)
 
 2. Setelah login selanjutnya akan menampilkan tampilan seperti gambar dibawah ini yang mana untuk membuat repo di github 
