@@ -31,6 +31,7 @@
 
 ![img](foto4/7.png)
 
+5. Selanjutnya instal openstack
 ![img](foto4/8.png)
 
 
