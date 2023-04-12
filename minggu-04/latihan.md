@@ -13,7 +13,7 @@
 
 ![img](foto4/3.png)
 
-3. mengaktifkan hak istimewa sudo untuk penggunaan tanpa perlu kata sandi
+3. Mengaktifkan hak istimewa sudo untuk penggunaan tanpa perlu kata sandi
 
 ![img](foto4/4.png)
 
