@@ -1,3 +1,6 @@
+1. Pada gambar berikut merupakan perintah perbarui
+-- sudo apt update
+-- sudo apt -y upgrade
 ![img](foto4/1.png)
 
 ![img](foto4/2.png)
