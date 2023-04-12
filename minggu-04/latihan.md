@@ -9,9 +9,15 @@
 
 ![img](foto4/2.png)
 
+2. Selanjutnya membuat penggunaan penyebaran DevStack
+
 ![img](foto4/3.png)
 
+3. mengaktifkan hak istimewa sudo untuk penggunaan tanpa perlu kata sandi
+
 ![img](foto4/4.png)
+
+4. 
 
 ![img](foto4/5.png)
 
