@@ -1,7 +1,11 @@
 1. Pada gambar berikut merupakan perintah perbarui
+
 -- sudo apt update
+
 -- sudo apt -y upgrade
 ![img](foto4/1.png)
+
+-- sudo apt -y dist-upgrade
 
 ![img](foto4/2.png)
 
