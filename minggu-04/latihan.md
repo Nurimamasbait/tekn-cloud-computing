@@ -10,10 +10,13 @@
 ![img](foto4/2.png)
 
 2. Selanjutnya membuat penggunaan penyebaran DevStack
+   
+   Mengaktifkan hak istimewa sudo untuk penggunaan tanpa perlu kata sandi
 
 ![img](foto4/3.png)
 
-3. Mengaktifkan hak istimewa sudo untuk penggunaan tanpa perlu kata sandi
+3. Unduh Devstack
+Kloning kode penyebaran Destack dari Github
 
 ![img](foto4/4.png)
 
