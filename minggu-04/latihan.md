@@ -20,9 +20,9 @@ Kloning kode penyebaran Destack dari Github
 
 ![img](foto4/4.png)
 
-4. 
-
+4. Selanjutnya instal git
 ![img](foto4/5.png)
+
 
 ![img](foto4/6.png)
 
