@@ -16,14 +16,12 @@
 ![img](foto4/3.png)
 
 3. Unduh Devstack
-Kloning kode penyebaran Destack dari Github
+-- Kloning kode penyebaran Destack dari Github
 
-![img](foto4/4.png)
-
-4. Selanjutnya instal git
+-- Selanjutnya instal git
 ![img](foto4/5.png)
 
-
+4. Selanjutnya membuat file local.conf di folder devstack
 ![img](foto4/6.png)
 
 ![img](foto4/7.png)
