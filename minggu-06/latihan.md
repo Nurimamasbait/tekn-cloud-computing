@@ -33,13 +33,42 @@ Jika anda telah install mysql anda dapat melihat perintah untuk melihat version 
 ![img](foto6/01.png)
 
 ## Install MongoDB
+1. Klik file MongoDB yang telah didownload
+
 ![img](foto6/3.png)
+
+2. Selanjutnya klik next
+
 ![img](foto6/4.png)
+
+3. Lanjut Next
+
 ![img](foto6/5.png)
+
+4. Selanjutnya akan menampilkan Servir Configuration
+Pada bagian ini akan di perlihatkan lokasi datanya , bias dilihat pada tanda
+
 ![img](foto6/6.png)
+
+5. Hilangkan tanda Install MongoDB Compass dan klik nxt
+
 ![img](foto6/7.png)
+
+6. Selanjutnya klik Install
+
 ![img](foto6/8.png)
+
+7. Kemudian tunggu proses install selesai
+
 ![img](foto6/9.png)
+
+8. Setelah installan selesai maka Finish , setelah itu klik finish
+
 ![img](foto6/10.png)
+
+9. Selanjutnya buka Folder MongoDB, kemudian klik mongoDB.exe
+
 ![img](foto6/11.png)
+
+10. Maka tampilan mongoDB jika telah seperti di bawah ini maka telah berasil terinstall
 ![img](foto6/12.png)
