@@ -8,8 +8,6 @@
 ![img](foto6/27.png)
 
 ## Install MongoDB
-![img](foto6/1.png)
-![img](foto6/2.png)
 ![img](foto6/3.png)
 ![img](foto6/4.png)
 ![img](foto6/5.png)
