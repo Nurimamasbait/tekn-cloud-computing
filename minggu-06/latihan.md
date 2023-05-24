@@ -3,10 +3,13 @@
 ![img](foto6/2.1.png)
 
 2. selanjutnya klik next
+
 ![img](foto6/22.png)
 
 3. klik next
+
 ![img](foto6/23.png)
+
 ![img](foto6/24.png)
 ![img](foto6/25.png)
 ![img](foto6/26.png)
