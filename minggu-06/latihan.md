@@ -1,4 +1,4 @@
-## Instal Go
+# Instal Go
 1. Buka file go yang telah didownload, kemudian klik dan klik run
 
 ![img](foto6/2.1.png)
@@ -27,12 +27,12 @@
 
 ![img](foto6/27.png)
 
-## Install MYSQL
+# Install MYSQL
 Jika anda telah install mysql anda dapat melihat perintah untuk melihat version mysql
 
 ![img](foto6/01.png)
 
-## Install MongoDB
+# Install MongoDB
 1. Klik file MongoDB yang telah didownload
 
 ![img](foto6/3.png)
