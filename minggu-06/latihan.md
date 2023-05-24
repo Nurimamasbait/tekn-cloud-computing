@@ -1,14 +1,18 @@
 ## Instal Go
 1. Buka file go yang telah didownload, kemudian klik dan klik run
+
 ![img](foto6/2.1.png)
 
 2. selanjutnya klik next
+
 ![img](foto6/22.png)
 
 3. klik next
+
 ![img](foto6/23.png)
 
 4. Selanjutnya memilih folder yang ingin anda letakan file Go yang akan diinstal
+
 ![img](foto6/24.png)
 
 5. 
