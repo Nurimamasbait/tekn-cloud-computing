@@ -7,6 +7,11 @@
 ![img](foto6/26.png)
 ![img](foto6/27.png)
 
+## Install MYSQL
+Jika anda telah install mysql anda dapat melihat perintah untuk melihat version mysql
+
+![img](foto6/01.png)
+
 ## Install MongoDB
 ![img](foto6/3.png)
 ![img](foto6/4.png)
