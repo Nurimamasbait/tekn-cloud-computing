@@ -1,5 +1,5 @@
 ## Instal Go
-![img](foto6/2.1.png = 250x250)
+![img](foto6/2.1.png "Title" {width=40px height=400px})
 ![img](foto6/22.png)
 ![img](foto6/23.png)
 ![img](foto6/24.png)
