@@ -10,7 +10,10 @@
 
 ![img](foto6/23.png)
 
+4. Selanjutnya memilih folder yang ingin anda letakan file Go yang akan diinstal
 ![img](foto6/24.png)
+
+5. 
 ![img](foto6/25.png)
 ![img](foto6/26.png)
 ![img](foto6/27.png)
