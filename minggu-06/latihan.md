@@ -1,5 +1,8 @@
 ## Instal Go
+1. Buka file go yang telah didownload, kemudian klik dan klik run
 ![img](foto6/2.1.png)
+
+2. selanjutnya klik next
 ![img](foto6/22.png)
 ![img](foto6/23.png)
 ![img](foto6/24.png)
