@@ -15,9 +15,16 @@
 
 ![img](foto6/24.png)
 
-5. 
+5. Selanjutnya klik Install
+
 ![img](foto6/25.png)
+
+6. Kemudian tunggu sampai proses install selesai
+
 ![img](foto6/26.png)
+
+7. Dan setelah selesai klik Finish
+
 ![img](foto6/27.png)
 
 ## Install MYSQL
