@@ -27,6 +27,10 @@
 
 ![img](foto6/27.png)
 
+8. Setelah terinstal , buka cmd untuk melihat apakah Go sudah terinstal
+
+![img](foto6/go.png)
+
 # Install MYSQL
 Jika anda telah install mysql anda dapat melihat perintah untuk melihat version mysql
 
