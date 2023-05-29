@@ -80,38 +80,39 @@ Pada bagian ini akan di perlihatkan lokasi datanya , bias dilihat pada tanda
 
 # 2. Contoh Program Go masing-masing untuk koneksi dan membaca data dari MySQL dan MongoDB
 
-## Program Go koneksi MYSQL
+1. Program Go koneksi MYSQL
 
-1. Buat file main.go
-
+Pertama-tama, Kita perlu men-download driver menggunakan go get.
 ![img](foto6/1sa.png)
 
+Buat file main.go
 ![img](foto6/2s.png)
 
+Selanjutnya run file main.go dan hasil sukses maka koneksi ke mysql berhasil
 ![img](foto6/s3.png)
 
+Selanjutnya membuat database
 ![img](foto6/s4.png)
 
 ![img](foto6/s5.png)
 
+Membuat file dengan nama select.go untuk menghubungkan database yang telah dibuat
 ![img](foto6/s6.png)
 
+Selanjutnya run file select.go
 ![img](foto6/s7.png)
 
+2. Program Go koneksi MongoDB
 
-
-Jalankan file dengan perintah go run main.go
-
-
-
-2. Buat program file Koneksi MongoDB
-
-Membuat file mongodb.go
+Pertama-tama, Kita perlu men-download driver menggunakan go get.
 
 ![img](foto6/b1.png)
 
+Membuat file mongodb.go
+
 ![img](foto6/b2.png)
 
+Selanjutnya run file mongodb.go
 ![img](foto6/b3.png)
 
 
