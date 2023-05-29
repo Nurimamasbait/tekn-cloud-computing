@@ -78,13 +78,13 @@ Pada bagian ini akan di perlihatkan lokasi datanya , bias dilihat pada tanda
 10. Maka tampilan mongoDB jika telah seperti di bawah ini maka telah berasil terinstall
 ![img](foto6/12.png)
 
-# 2. 2 contoh program Go masing-masing untuk koneksi dan membaca data dari MySQL dan MongoDB
+# 2. Contoh Program Go masing-masing untuk koneksi dan membaca data dari MySQL dan MongoDB
 
 ## Program Go koneksi MYSQL
 
 1. Buat file main.go
 
-![img](foto6/1s.png)
+![img](foto6/1.png)
 
 ![img](foto6/2s.png)
 
