@@ -118,7 +118,7 @@ Pertama-tama, Kita perlu men-download driver menggunakan go get.
 
 Membuat file mongodb.go
 
-![img](foto6/b2.png)
+![img](foto6/b3.png)
 
 Selanjutnya run file mongodb.go
 
