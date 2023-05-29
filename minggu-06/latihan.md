@@ -85,21 +85,6 @@ Pada bagian ini akan di perlihatkan lokasi datanya , bias dilihat pada tanda
 1. Buat file main.go
 
 
-package main
-import (
-    "fmt"
-    "database/sql"
-    _ "github.com/go-sql-driver/mysql"
-)
-func main() {
-    db, err := sql.Open("mysql", "root:@tcp(127.0.0.1:3306)/cloud")
-    if err != nil {
-        panic(err.Error())
-    }
-    defer db.Close()
-    fmt.Println("Success!")
-}
-
 Jalankan file dengan perintah go run main.go
 
 
@@ -109,7 +94,6 @@ Jalankan file dengan perintah go run main.go
 Membuat file mongodb.go
 
 package main
-
 import (
 	"context"
 	"fmt"
@@ -118,7 +102,6 @@ import (
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
-
 func main() {
 
 	// Define the mongodb client URL
@@ -149,7 +132,6 @@ func main() {
 		bson.D{{"name", "Halley"}, {"score", 3.6}},
 		bson.D{{"name", "John"}, {"score", 7.5}},
 	}
-
 	// insertMany
 	result, err := coll.InsertMany(context.TODO(), docs)
 	if err != nil {
@@ -162,6 +144,5 @@ func main() {
 	for _, id := range result.InsertedIDs {
 		fmt.Printf("\t%s\n", id)
 	}
-
 }
 
