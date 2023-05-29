@@ -106,14 +106,14 @@ Selanjutnya run file select.go
 
 Pertama-tama, Kita perlu men-download driver menggunakan go get.
 
-![img](foto6/b1.png)
+![img](foto6/ba1.png)
 
 Membuat file mongodb.go
 
 ![img](foto6/b2.png)
 
 Selanjutnya run file mongodb.go
-![img](foto6/b3.png)
+![img](foto6/ba2.png)
 
 
 
