@@ -84,7 +84,7 @@ Pada bagian ini akan di perlihatkan lokasi datanya , bias dilihat pada tanda
 
 1. Buat file main.go
 
-![img](foto6/1.png)
+![img](foto6/1sa.png)
 
 ![img](foto6/2s.png)
 
