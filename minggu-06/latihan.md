@@ -83,7 +83,22 @@ Pada bagian ini akan di perlihatkan lokasi datanya , bias dilihat pada tanda
 ## Program Go koneksi MYSQL
 
 1. Buat file main.go
-![img](foto6/.png)
+
+![img](foto6/1s.png)
+
+![img](foto6/2s.png)
+
+![img](foto6/s3.png)
+
+![img](foto6/s4.png)
+
+![img](foto6/s5.png)
+
+![img](foto6/s6.png)
+
+![img](foto6/s7.png)
+
+
 
 Jalankan file dengan perintah go run main.go
 
@@ -92,4 +107,13 @@ Jalankan file dengan perintah go run main.go
 2. Buat program file Koneksi MongoDB
 
 Membuat file mongodb.go
+
+![img](foto6/b1.png)
+
+![img](foto6/b2.png)
+
+![img](foto6/b3.png)
+
+
+
 
