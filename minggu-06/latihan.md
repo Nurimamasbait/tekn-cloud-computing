@@ -82,7 +82,7 @@ Pada bagian ini akan di perlihatkan lokasi datanya , bias dilihat pada tanda
 
 # 2. Contoh Program Go masing-masing untuk koneksi dan membaca data dari MySQL dan MongoDB
 
-1. Program Go koneksi MYSQL
+#### 1. Program Go koneksi MYSQL
 
 Pertama-tama, Kita perlu men-download driver menggunakan go get.
 
@@ -110,7 +110,7 @@ Selanjutnya run file select.go
 
 ![img](foto6/s7.png)
 
-2. Program Go koneksi MongoDB
+#### 2. Program Go koneksi MongoDB
 
 Pertama-tama, Kita perlu men-download driver menggunakan go get.
 
