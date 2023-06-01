@@ -124,6 +124,21 @@ Selanjutnya run file mongodb.go
 
 ![img](foto6/ba2.png)
 
+# 3. Dengan menggunakan Gin, buatlah RESTful API untuk membaca dara dari MySQL dan MongoDB tersebut
+
+1. Program Main.go
+
+![img](foto6/gin1.png)
+
+2. Run main untuk akses GIN
+
+![img](foto6/gin2.png)
+
+3. Hasil
+
+![img](foto6/gin3.png)
+
+
 
 
 
