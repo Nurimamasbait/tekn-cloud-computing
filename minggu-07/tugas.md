@@ -9,14 +9,17 @@
 ![img](foto7/02.png)
 
 3. tes dengan aplikasi 
+
 ![img](foto7/03.png)
 
 ## Membuat Docker untuk aplikasi
 
 File : Dockerfile
+
 ![img](foto7/04.png)
 
 Tambah komentar yang berada di bagian ke dua
+
 ![img](foto7/05.png)
 
 ## Membangun Gambar
