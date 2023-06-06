@@ -20,31 +20,43 @@ Setelah itu , klik Close and restrart untuk restart komputer
 ![img](foto7/5.png)
 
 # 2. Get Started - Docker
-## Menggunakan Golang 
-1. Mengkloning repository aplikasi ke mesin lokal :
+##  Containerize an application
+Gunakan app
+Kloning repositori memulai menggunakan perintah berikut:
 
-![img](foto7/01.png)
+![img](foto7/d1.png)
 
-2. Ran file main.go akan menampilkan seperti diwabah ini
+Lihat konten repositori kloning. Di dalam direktori Anda harus melihat dan dua subdirektori  dan.(getting-started/apppackage.jsonsrcspec)
 
-![img](foto7/02.png)
+![img](foto7/d2.png)
 
-3. tes dengan aplikasi 
-![img](foto7/03.png)
+## Membuat gambar kontainer aplikasi
 
-## Membuat Docker untuk aplikasi
+Di direktori, lokasi yang sama dengan file, buat file bernama . Anda dapat menggunakan perintah berikut di bawah ini untuk membuat Dockerfile berdasarkan sistem operasi Anda.apppackage.jsonDockerfile
 
-File : Dockerfile
-![img](foto7/04.png)
+![img](foto7/d3.png)
 
-Tambah komentar yang berada di bagian ke dua
-![img](foto7/05.png)
+Buat gambar kontainer
 
-## Membangun Gambar
-Mulai Buat gambar docker pertama dengan perintah berikut
+![img](foto7/d4.png)
 
-![img](foto7/06.png)
+Login Docker
 
-Berikut proses akan mencetak beberapa diagnostik untuk melalui langkah - langkah build
+![img](foto7/d5.png)
 
-![img](foto7/07.png)
+Mulai kontainer Anda menggunakan perintah dan tentukan nama gambar yang baru saja Anda buat:docker run
+
+![img](foto7/d6.png)
+
+
+Setelah beberapa detik, buka browser web Anda untuk http://localhost:3000. Anda akan melihat aplikasi Anda.
+
+![img](foto7/d7.png)
+
+Jalankan perintah berikut di terminal untuk mencantumkan kontainer Anda.docker ps
+Dan hasilnya sebagai berikut
+
+![img](foto7/d8.png)
+
+
+
