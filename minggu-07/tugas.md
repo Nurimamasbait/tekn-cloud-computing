@@ -1,4 +1,4 @@
-# image yang menarik untuk anda di DockerHub
+# Image yang menarik untuk anda di DockerHub
 ## Menggunakan Golang 
 1. Mengkloning repository aplikasi ke mesin lokal :
 
