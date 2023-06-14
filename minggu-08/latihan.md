@@ -15,7 +15,7 @@ Di direktori proyek Anda, buat file bernama dan tempelkan kode berikut di:Docker
 
 ![img](foto8/5.png)
 
-Buat file yang dipanggil di direktori proyek Anda dan tempel berikut ini:docker-compose.yml
+login docker
 
 ![img](foto8/6.png)
 
@@ -23,13 +23,15 @@ Dari direktori proyek Anda, mulai aplikasi Anda dengan menjalankan .docker compo
 
 ![img](foto8/7.png)
 
+Dari direktori proyek Anda, mulai aplikasi Anda dengan menjalankan .docker compose up
+
+![img](foto8/8.png)
+
 Masukkan http://localhost:8000/ di browser untuk melihat aplikasi berjalan.
 
 Jika ini tidak teratasi, Anda juga dapat mencoba http://127.0.0.1:8000.
 
 Anda akan melihat pesan di browser Anda yang mengatakan:
-
-![img](foto8/8.png)
 
 Refresh halaman.
 
