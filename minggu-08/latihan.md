@@ -1,26 +1,62 @@
+Buat direktori untuk proyek:
+
 ![img](foto8/1.png)
+
+Buat file yang dipanggil di direktori proyek Anda dan tempelkan kode berikut di:app.py
 
 ![img](foto8/2.png)
 
+Buat file lain yang dipanggil di direktori proyek Anda dan Tempel kode berikut di:requirements.txt
+
 ![img](foto8/3.png)
+
+Di direktori proyek Anda, buat file bernama dan tempelkan kode berikut di:Dockerfile
 
 ![img](foto8/4.png)
 
+Buat file yang dipanggil di direktori proyek Anda dan tempel berikut ini:docker-compose.yml
+
 ![img](foto8/5.png)
 
+Dari direktori proyek Anda, mulai aplikasi Anda dengan menjalankan .docker compose up
 ![img](foto8/6.png)
+
+Masukkan http://localhost:8000/ di browser untuk melihat aplikasi berjalan.
+
+Jika ini tidak teratasi, Anda juga dapat mencoba http://127.0.0.1:8000.
+
+Anda akan melihat pesan di browser Anda yang mengatakan:
 
 ![img](foto8/7.png)
 
+
+Refresh halaman.
+
+Jumlahnya harus bertambah
+
+
 ![img](foto8/8.png)
+
+Beralih ke jendela terminal lain, dan ketik untuk mencantumkan gambar lokal.docker image ls
+
+Daftar gambar pada titik ini harus kembali dan .redisweb
+
 
 ![img](foto8/9.png)
 
+Edit di direktori proyek Anda untuk menambahkan pemasangan pengikatan untuk layanan:docker-compose.ymlweb
+
 ![img](foto8/10.png)
+
+Dari direktori project, ketik untuk mem-build aplikasi dengan file Compose yang diperbarui, lalu jalankan.docker compose up
 
 ![img](foto8/11.png)
 
+Ubah salam dan simpan. Misalnya, ubah pesan menjadi :app.pyHello World!Hello from Docker!
+
 ![img](foto8/12.png)
+
+Ubah salam dan simpan. Misalnya, ubah pesan menjadi :app.pyHello World!Hello from Docker!
 
 ![img](foto8/13.png)
 
