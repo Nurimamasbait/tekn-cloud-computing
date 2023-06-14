@@ -3,6 +3,7 @@ Buat direktori untuk proyek:
 ![img](foto8/1.png)
 
 ![img](foto8/2.png)
+
 Buat file yang dipanggil di direktori proyek Anda dan tempelkan kode berikut di:app.py
 
 ![img](foto8/3.png)
@@ -15,11 +16,11 @@ Di direktori proyek Anda, buat file bernama dan tempelkan kode berikut di:Docker
 
 ![img](foto8/5.png)
 
-login docker
+Dari direktori proyek Anda, mulai aplikasi Anda dengan menjalankan .docker compose up
 
 ![img](foto8/6.png)
 
-Dari direktori proyek Anda, mulai aplikasi Anda dengan menjalankan .docker compose up
+login docker
 
 ![img](foto8/7.png)
 
