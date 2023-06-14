@@ -34,29 +34,33 @@ Jika ini tidak teratasi, Anda juga dapat mencoba http://127.0.0.1:8000.
 
 Anda akan melihat pesan di browser Anda yang mengatakan:
 
+![img](foto8/9.png)
+
 Refresh halaman.
 
 Jumlahnya harus bertambah
 
-![img](foto8/9.png)
-Beralih ke jendela terminal lain, dan ketik untuk mencantumkan gambar lokal.docker image ls
-
-Daftar gambar pada titik ini harus kembali dan .redisweb
-
 ![img](foto8/10.png)
-Edit di direktori proyek Anda untuk menambahkan pemasangan pengikatan untuk layanan:docker-compose.ymlweb
+
+Beralih ke jendela terminal lain, dan ketik untuk mencantumkan gambar lokal.docker image ls
 
 ![img](foto8/11.png)
 
-Dari direktori project, ketik untuk mem-build aplikasi dengan file Compose yang diperbarui, lalu jalankan.docker compose up
+
+Edit di direktori proyek Anda untuk menambahkan pemasangan pengikatan untuk layanan:docker-compose.ymlweb
 
 ![img](foto8/12.png)
 
-Ubah salam dan simpan. Misalnya, ubah pesan menjadi :app.pyHello World!Hello from Docker!
+Dari direktori project, ketik untuk mem-build aplikasi dengan file Compose yang diperbarui, lalu jalankan.docker compose up
 
 ![img](foto8/13.png)
+Ubah salam dan simpan. Misalnya, ubah pesan menjadi :app.pyHello World!Hello from Docker!
+
+return 'Hello from Docker! I have been seen {} times.\n'.format(count)
 
 ![img](foto8/14.png)
+
+Jika Anda ingin menjalankan layanan Anda di latar belakang, Anda dapat meneruskan bendera (untuk mode "terpisah") ke dan gunakan untuk Lihat apa yang sedang berjalan:-ddocker compose updocker compose ps
 
 ![img](foto8/15.png)
 
