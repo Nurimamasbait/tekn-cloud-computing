@@ -1,9 +1,9 @@
-Mengkloning Repo GitHub Lab
+# Mengkloning Repo GitHub Lab
 Gunakan perintah berikut untuk mengkloning repositori lab dari GitHub (Anda dapat mengklik perintah atau mengetiknya secara manual). Ini akan membuat salinan repo lab di sub-direktori baru yang disebut .linux_tweet_app
 
 ![img](foto9/1.png)
 
-Menjalankan beberapa kontainer Docker sederhana
+# Menjalankan beberapa kontainer Docker sederhana
 Menjalankan satu tugas dalam kontainer Alpine Linux
 Pada langkah ini kita akan memulai kontainer baru dan menyuruhnya menjalankan perintah. Kontainer akan mulai, jalankan perintah, lalu keluar.hostnamehostname
 Jalankan perintah berikut di konsol Linux Anda.
@@ -15,7 +15,7 @@ Cantumkan semua kontainer.
 
 ![img](foto9/3.png)
 
-Menjalankan kontainer Ubuntu interaktif
+# Menjalankan kontainer Ubuntu interaktif
 Jalankan kontainer Docker dan akses shell-nya.
 Dalam contoh ini, kami memberi Docker tiga parameter:
 •	--interactive mengatakan Anda ingin sesi interaktif.
@@ -41,7 +41,7 @@ Ketik untuk meninggalkan sesi shell. Ini akan menghentikan proses, menyebabkan k
 
 ![img](foto9/8.png)
 
-Menjalankan kontainer MySQL latar belakang
+# Menjalankan kontainer MySQL latar belakang
 Jalankan kontainer MySQL baru dengan perintah berikut.
 •	--detach akan menjalankan kontainer di latar belakang.
 •	--name akan menamainya mydb.
@@ -70,7 +70,7 @@ Anda juga dapat menggunakannya untuk menyambungkan ke proses shell baru di dalam
 
 ![img](foto9/14.png)
 
-Mengemas dan menjalankan aplikasi kustom menggunakan Docker
+# Mengemas dan menjalankan aplikasi kustom menggunakan Docker
 Pastikan Anda berada di direktori.linux_tweet_app
 
 
