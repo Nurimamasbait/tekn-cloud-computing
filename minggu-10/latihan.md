@@ -32,14 +32,37 @@ Instal perintah dan gunakan untuk membuat daftar jembatan Linux di host Docker A
 
 ![img](foto/6.png)
 
+Kemudian, daftarkan bridge di host Docker Anda, dengan menjalankan .brctl show
+Output berikut menunjukkan satu jembatan Linux yang disebut docker0. Ini adalah jembatan yang secara otomatis dibuat untuk jaringan jembatan. Anda dapat melihat bahwa ia tidak memiliki antarmuka yang saat ini terhubung dengannya.
+
 ![img](foto/7.png)
 
+perintah untuk melihat detail bridge docker0
+
 ![img](foto/8.png)
+
+Menyambungkan kontainer
+Jaringan bridge adalah jaringan default untuk kontainer baru. Ini berarti bahwa kecuali Anda menentukan jaringan yang berbeda, semua kontainer baru akan terhubung ke jaringan jembatan
+
 ![img](foto/9.png)
+
+Perintah ini akan membuat kontainer baru berdasarkan gambar dan akan menjalankan perintah untuk menjaga kontainer tetap berjalan di latar belakang.
+
 ![img](foto/10.png)
+
+Jalankan perintah lagi.brctl show
 ![img](foto/11.png)
+
+melihat kontainer baru yang terpasang
 ![img](foto/12.png)
+
+Uji konektivitas jaringan
+Output ke perintah sebelumnya menunjukkan alamat IP kontainer baru
+
 ![img](foto/13.png)
+
+Balasan di atas menunjukkan bahwa host Docker dapat melakukan ping ke kontainer melalui jaringan bridge. Tapi, kami juga dapat memverifikasi kontainer dapat terhubung ke dunia luar juga
+
 ![img](foto/14.png)
 ![img](foto/15.png)
 ![img](foto/16.png)
