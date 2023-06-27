@@ -10,14 +10,25 @@ Jalankan perintah untuk melihat jaringan kontainer yang ada di host Docker saat 
 
 ![img](foto/2.png)
 
+Periksa jaringan
+Perintah ini digunakan untuk melihat detail konfigurasi jaringan
 
 ![img](foto/3.png)
 
+Daftar plugin driver jaringanV
+Perintah menunjukkan banyak informasi menarik tentang instalasi Docke
 
 ![img](foto/4.png)
 
+Jaringan Jembatan
+Dasar-dasar
+Setiap instalasi Docker yang bersih dilengkapi dengan jaringan pra-bangun yang disebut bridge. Verifikasi ini dengan ekstensi .docker network lsV
 
 ![img](foto/5.png)
+
+Output di atas menunjukkan bahwa jaringan bridge dikaitkan dengan driver bridge dan juga menunjukkan bahwa jaringan jembatan dicakup secara lokal. Ini berarti bahwa jaringan hanya ada di host Docker ini. Ini berlaku untuk semua jaringan yang menggunakan driver bridge - driver bridge menyediakan jaringan host tunggal.
+
+Instal perintah dan gunakan untuk membuat daftar jembatan Linux di host Docker Anda. Anda dapat melakukan ini dengan menjalankan file .brctlsudo apt-get install bridge-utils
 
 ![img](foto/6.png)
 
