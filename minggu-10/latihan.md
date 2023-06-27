@@ -26,7 +26,7 @@ Perintah menunjukkan banyak informasi menarik tentang instalasi Docke
 # Jaringan Jembatan
 ## Dasar-dasar
 
-Setiap instalasi Docker yang bersih dilengkapi dengan jaringan pra-bangun yang disebut bridge. Verifikasi ini dengan ekstensi .docker network lsV
+Setiap instalasi Docker yang bersih dilengkapi dengan jaringan pra-bangun yang disebut bridge. Verifikasi ini dengan ekstensi .docker network ls
 
 ![img](foto/5.png)
 
@@ -144,7 +144,7 @@ perintah berikut dari terminal pertama untuk membuat layanan baru yang disebut m
 
 ![img](foto/33.png)
 
-# Uji penemuan layananVV
+# Uji penemuan layanan
 
 ![img](foto/34.png)
 
