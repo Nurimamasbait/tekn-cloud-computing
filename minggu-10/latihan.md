@@ -82,26 +82,79 @@ lepaskan shell kita dari wadah, dengan menjalankan .exit
 
 # Konfigurasikan NAT untuk konektivitas eksternalKonfigurasikan NAT untuk konektivitas eksternal
 
+Pada langkah ini kita akan memulai kontainer NGINX baru dan memetakan port 8080 pada host Docker ke port 80 di dalam kontainer. Ini berarti bahwa lalu lintas yang mengenai host Docker pada port 8080 akan diteruskan ke port 80 di dalam kontainer.
+
 ![img](foto/17.png)
 
+Tinjau status kontainer dan pemetaan po
+
 ![img](foto/18.png)
+
+erhubung dari host Docker Anda menggunakan perintah
+
 ![img](foto/19.png)
+
+# Jaringan Overlay
+
+Pada langkah ini Anda akan menginisialisasi Swarm baru, bergabung dengan satu simpul pekerja, dan memverifikasi operasi yang berhasil.
+
 ![img](foto/20.png)
+
+Jalankan untuk memverifikasi bahwa kedua node adalah bagian dari Swarm
+
 ![img](foto/21.png)
+
+# Buat jaringan overlay
+
+Buat jaringan overlay baru yang disebut "overnet" 
+
 ![img](foto/22.png)
+
+perintah untuk memverifikasi bahwa jaringan berhasil dibua
+
 ![img](foto/23.png)
+
+perintah yang sama dari terminal kedua
+
 ![img](foto/24.png)
+
+perintah untuk melihat informasi lebih rinci tentang jaringan "overnet"
+
 ![img](foto/25.png)
+
+# Buat layananBuat layanan
+
+perintah berikut dari terminal pertama untuk membuat layanan baru yang disebut myservice di jaringan overnet dengan dua tugas/replika.
+
 ![img](foto/26.png)
+
 ![img](foto/27.png)
+
 ![img](foto/28.png)
+
 ![img](foto/29.png)
+
 ![img](foto/30.png)
+
+# Uji jaringan
+
 ![img](foto/31.png)
+
 ![img](foto/32.png)
+
 ![img](foto/33.png)
+
+# Uji penemuan layananVV
+
 ![img](foto/34.png)
+
 ![img](foto/35.png)
+
+# Membersihkan
+
 ![img](foto/36.png)
+
 ![img](foto/37.png)
+
 ![img](foto/38.png)
+
