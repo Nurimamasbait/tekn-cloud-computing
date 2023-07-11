@@ -2,7 +2,7 @@
 
 Pada pertemuan ini mempelajari tentang containerization aplikasi dasar menggunakan Docker dan menjalankan berbagai komponen aplikasi sebagai layanan mikro. Pada praktik kali ini mengguanakan Docker Compose untuk orkestrasi selama pengembangan
 
-![img](foto11/a.png)
+![img](foto11/b.png)
 
 ## Stage Setup
 Pada tahap pertama mengkloning repositori kode demo mengubah direktori kerja, dan memeriksa cabangnya.demo
