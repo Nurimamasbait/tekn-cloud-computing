@@ -3,16 +3,29 @@
 
 Menggunakan perintah ini:PowerShell
 
-![img](foto/1.png)
+![img](foto/1/1.png)
+
+![img](foto/1/2.png)
 
 Selanjutnya tambahkan biner ke file .
 Pastikan untuk menjalankan PowerShell sebagai Administrator.minikube.exePATH
 
-![img](foto/2.png)
+![img](foto/1/3.png)
 
-## Install kubectl
+## Instal kubectl binary with curl di Windows
 
-![img](foto/4.png)
+Perintah ini:curl
+
+![img](foto/2/1.png)
+
+Perintah Memvalidasi biner (opsional)
+Unduh file checksum:kubectl
+
+![img](foto/2/2.png)
+
+Uji untuk memastikan versi sama dengan yang diunduh:kubectl
+![img](foto/2/3.png)
+
 
 Setelah install Minikuber dan kubectl ,selanjutnya membuat minikube cluster
 
