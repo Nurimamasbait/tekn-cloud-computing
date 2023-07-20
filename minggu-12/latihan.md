@@ -8,6 +8,7 @@ Menggunakan perintah ini:PowerShell
 ![img](foto/1/2.png)
 
 Selanjutnya tambahkan biner ke file .
+
 Pastikan untuk menjalankan PowerShell sebagai Administrator.minikube.exePATH
 
 ![img](foto/1/3.png)
@@ -24,6 +25,7 @@ Menggunakan Command Prompt untuk membandingkan output secara manual dengan file 
 ![img](foto/2/22.png)
 
 Menggunakan PowerShell untuk mengotomatiskan verifikasi menggunakan operator untuk Dapatkan hasil OR
+
 ![img](foto/2/23.png)
 
 Perintah Memvalidasi biner (opsional)
@@ -32,9 +34,11 @@ Unduh file checksum:kubectl
 ![img](foto/2/24.png)
 
 Uji untuk memastikan versi sama dengan yang diunduh:kubectl
+
 ![img](foto/2/25.png)
 
 Atau gunakan ini untuk tampilan versi yang terperinci:
+
 ![img](foto/2/26.png)
 
 Setelah install Minikuber dan kubectl ,selanjutnya membuat minikube cluster
